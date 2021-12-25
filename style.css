@@ -1,0 +1,89 @@
+body{
+background-image:url("nature4.jpg");
+background-position:100%;
+
+}
+.td{
+font-size:30px;
+font-style:strong;
+color:white;
+}
+.in{
+margin:25px;
+height:35px;
+width:250px;
+}
+#tb{
+
+margin-left:400px;
+}
+#sub{
+margin-left:300px;
+}
+h1{
+text-shadow:5px 0px 5px blue;
+color:white;
+}
+/*-----Welcome---*/
+#ws{
+background-color:green; 
+margin-left:560px; margin-top:20px;
+ width:150px; height:35px; 
+border-radius:10px 10px 10px 10px;
+}
+.wt{
+color:white;
+margin:20px;
+padding:20px;
+font-size:20px;
+}
+.wt1{
+box-shadow:2px 5px 2px 0px yellow;
+width:180px;
+height:30px;
+text-align:center;
+font-size:15px;
+
+}
+
+#fld{
+width:50px;
+height:400px;
+}
+#welcome{
+margin-left:400px;
+}
+
+
+
+/*-----serach---*/
+#si{
+width:450px;
+margin-top:50px;
+box-shadow:2px 5px 2px 0px yellow;
+border:0px;
+outeline:0px;
+}
+#ss{
+background-color:green;
+color:blue; 
+margin-left:400px;
+font-size:18px;
+border-radius:5px 5px 5px 5px;
+margin-top:5px;
+}
+
+
+/*-----remove---*/
+
+
+#wr{
+background-color:green; 
+margin-left:560px; margin-top:20px;
+ width:100px; height:35px; 
+border-radius:10px 10px 10px 10px;
+}
+#remove{
+margin-left:400px;
+margin-top:150px;
+}
